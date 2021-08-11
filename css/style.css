@@ -6,7 +6,7 @@
     width: 250px;
     height: 50px;
     margin: 10px;
-    border: 10px solid orangered;
+    border: 10px solid rgb(0, 4, 255);
     padding: 80px;
     box-sizing: content-box;
 }
